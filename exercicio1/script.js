@@ -13,5 +13,6 @@ console.log(`O tipo do primeiro numero é ${typeof(num)} porque eu ja dei o num/
 // c) Teste o programa com diversos números pares. Você notou um padrão? Escreva em um comentário de código.
 // o resultado sempre é o mesmo
 // d) O que acontece no console se o usuário inserir um número ímpar? Escreva em um comentário de código.
+// se o usuario digitar um número impar terá resto 1.
 // o resultado para impar é 1 porque sempre resta 1 quan
 // >💡  **Dica**:   não se esqueça de **converter** as respostas para o tipo número
